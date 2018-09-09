@@ -1,0 +1,11 @@
+{
+  "name": "movingcircle",
+  "version": "1.0.0",
+  "description": "can we p5",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
