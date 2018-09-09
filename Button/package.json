@@ -1,0 +1,11 @@
+{
+  "name": "button",
+  "version": "1.0.0",
+  "description": "press a button",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
